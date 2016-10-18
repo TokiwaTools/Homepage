@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>文房具店</name>
+		<description><![CDATA[主に東京23区<br>営業を確認した日時をコメントに記述<br>事前にストリートビューで確認しています<br>店名はストリートビューの看板を参考にしています]]></description>
+		<NetworkLink>
+			<name>文房具店</name>
+			<Link>
+				<href>http://www.google.com/maps/d/u/2/kml?forcekml=1&amp;mid=17xJOfpC3mhVBypAg-gRJlPILPt4</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
